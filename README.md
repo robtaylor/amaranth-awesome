@@ -31,6 +31,7 @@ Active Projects
  - [pytest-amaranth-sim](https://github.com/cr1901/pytest-amaranth-sim) Fixture to automate running Amaranth simulations.
  - [sae](https://github.com/kivikakk/sae) RV32I softcore
  - [smolarith](https://github.com/cr1901/smolarith) Small arithmetic soft-cores for smol FPGAs.
+ - [amlib](https://github.com/amaranth-farm/amlib) Assorted library of utility cores for amaranth HDL.
 
 Inactive Projects
 =================
