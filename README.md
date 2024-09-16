@@ -1,0 +1,46 @@
+Awesome Amaranth
+----------------
+
+A curated list of awesome projects using or building on the [Amaranth project](https://github.com/amaranth-lang/amaranth).
+
+Core Amaranth components
+========================
+ - [amaranth-soc](https://github.com/amaranth-lang/amaranth-soc) Amaranth System-on-a-Chip Framework.
+ - [amaranth-stdio](https://github.com/amaranth-lang/amaranth-stdio) Amaranth stream based standard input and output components.
+ - [RFCs](https://amaranth-lang.org/rfcs/) Process for Amaranth feature addition.
+ - [template-fpga](https://github.com/amaranth-lang/template-fpga) Template repository for getting started with general Amaranth FPGA projects
+
+Active Projects 
+===============
+
+ - [Coreblocks](https://kuznia-rdzeni.github.io/coreblocks) is an experimental, modular out-of-order [RISC-V](https://riscv.org/specifications/) core generator implemented in Amaranth.
+ - [Glasgow](https://glasgow-embedded.org/) Glasgow Interface Explorer is a tool for exploring digital interfaces
+ - [LUNA](https://github.com/greatscottgadgets/luna) is a toolkit for working with USB using FPGA technology, providing gateware and software to enable USB applications.
+ - [Lambdalib](https://github.com/lambdaconcept/lambdalib) Lambdalib is a collection of cores, helpers and tools for Amaranth created and maintained by LambdaConcept.
+ - [ORBTrace](https://github.com/orbcode/orbtrace) Orbtrace is a lightweight, cost effective, USB2-HS Debug and Trace interface for ARM CORTEX-M processors.
+ - [Tiliqua](https://github.com/apfelaudio/tiliqua) Tiliqua is a powerful, open hardware FPGA-based audio multitool for Eurorack.
+ - [amaranth-exercises](https://github.com/RobertBaruch/amaranth-exercises) Graded exercises for Amaranth HDL
+ - [amaranth-lib-bl0x](https://github.com/bl0x/amaranth-lib-bl0x) A collection of (useful) modules written in Amaranth-HDL.
+ - [amaranth-orchard](https://github.com/ChipFlow/amaranth-orchard) Existing open source cores combined with wrappers and glue to enable Amaranth support.
+ - [amaranth-stubs](https://github.com/kuznia-rdzeni/amaranth-stubs) Type stubs for Amaranth
+ - [hexastorm](https://github.com/hstarmans/hexastorm) Hexastorm is a full toolkit for working with polygon lasers scanners using FPGA technology; and provides hardware, gateware, and software to enable laser scanning applications.
+ - [ili9341spi](https://github.com/kivikakk/ili9341spi) Driver for ILI9341 LCD display. Proving ground for [niar](https://github.com/kivikakk/niar).
+ - [learn-fpga-amaranth](https://github.com/bl0x/learn-fpga-amaranth) This repository contains code to follow the excellent learn-fpga tutorial by Bruno Levy from blinker to RISC-V using Amaranth HDL
+ - [mtkCPU](https://github.com/bieganski/mtkcpu) mtkCPU is a simple, clear, hackable and very inefficient implementation of RiscV ISA in Amaranth HDL.
+ - [niar](https://github.com/kivikakk/niar) A small framework for building projects with Amaranth. Provides support for using CXXRTL, optionally with Zig and zxxrtl.
+ - [pytest-amaranth-sim](https://github.com/cr1901/pytest-amaranth-sim) Fixture to automate running Amaranth simulations.
+ - [sae](https://github.com/kivikakk/sae) RV32I softcore
+ - [smolarith](https://github.com/cr1901/smolarith) Small arithmetic soft-cores for smol FPGAs.
+
+Inactive Projects
+=================
+Projects that have seen no updates for >6 months. There have been many changes in Amaranth in that time period.
+
+*Here be dragons, YMMV.*
+
+ - https://github.com/icebreaker-fpga/icebreaker-amaranth-examples
+ - https://github.com/GuzTech/misato - Misato is a RISC-V CPU that supports the RV32I instruction set. 
+ - https://github.com/kivikakk/sh1107 - SH1107 driver
+ - https://github.com/lambdaconcept/amaranth-to-litex Use amaranth-to-litex to simply import Amaranth code into a Litex project.
+ - https://github.com/weshu/Amaranth_LFSR - a re-write of Alexforencich's verilog-lfsr, with Amaranth HDL.
+ - https://github.com/sporniket/amaranth-stuff Amaranth stuff by Sporniket is my collection of essential code written using the Amaranth hdl.
