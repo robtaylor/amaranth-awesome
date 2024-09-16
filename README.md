@@ -3,6 +3,8 @@ Awesome Amaranth
 
 A curated list of awesome projects using or building on the [Amaranth project](https://github.com/amaranth-lang/amaranth).
 
+Please submit a PR if you have any suggestions!
+
 Core Amaranth components
 ========================
  - [amaranth-soc](https://github.com/amaranth-lang/amaranth-soc) Amaranth System-on-a-Chip Framework.
@@ -31,6 +33,12 @@ Active Projects
  - [pytest-amaranth-sim](https://github.com/cr1901/pytest-amaranth-sim) Fixture to automate running Amaranth simulations.
  - [sae](https://github.com/kivikakk/sae) RV32I softcore
  - [smolarith](https://github.com/cr1901/smolarith) Small arithmetic soft-cores for smol FPGAs.
+
+Companies using Amaranth
+========================
+
+ - [ChipFlow](https://chipflow.io) Custom ASIC platform
+ - [LambdaConcept](https://lambdaconcept.com/) On-demand software development and hardware programming for a wide range of embedded systems.
 
 Inactive Projects
 =================
