@@ -32,6 +32,7 @@ Active Projects
  - [niar](https://github.com/kivikakk/niar) A small framework for building projects with Amaranth. Provides support for using CXXRTL, optionally with Zig and zxxrtl.
  - [pytest-amaranth-sim](https://github.com/cr1901/pytest-amaranth-sim) Fixture to automate running Amaranth simulations.
  - [sae](https://github.com/kivikakk/sae) RV32I softcore
+ - [sentinel](https://github.com/cr1901/sentinel) Sentinel is a small RISC-V CPU (RV32I_Zicsr) written in Amaranth. It implements the Machine Mode privileged spec, and is designed to fit into ~1000 4-input LUTs or less on an FPGA.
  - [smolarith](https://github.com/cr1901/smolarith) Small arithmetic soft-cores for smol FPGAs.
 
 Companies using Amaranth
