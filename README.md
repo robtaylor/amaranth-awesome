@@ -34,7 +34,6 @@ Active Projects
  - [sae](https://github.com/kivikakk/sae) RV32I softcore
  - [sentinel](https://github.com/cr1901/sentinel) Sentinel is a small RISC-V CPU (RV32I_Zicsr) written in Amaranth. It implements the Machine Mode privileged spec, and is designed to fit into ~1000 4-input LUTs or less on an FPGA.
  - [smolarith](https://github.com/cr1901/smolarith) Small arithmetic soft-cores for smol FPGAs.
- - [amlib](https://github.com/amaranth-farm/amlib) Assorted library of utility cores for amaranth HDL.
 
 Companies using Amaranth
 ========================
@@ -55,3 +54,4 @@ Projects that have seen no updates for >6 months. There have been many changes i
  - https://github.com/weshu/Amaranth_LFSR - a re-write of Alexforencich's verilog-lfsr, with Amaranth HDL.
    (Note: there is now a RFC to add and LFSR generator to Amaranth core)  https://github.com/amaranth-lang/rfcs/pull/72)
  - https://github.com/sporniket/amaranth-stuff Amaranth stuff by Sporniket is my collection of essential code written using the Amaranth hdl.
+ - https://github.com/amaranth-farm/amlib Assorted library of utility cores for amaranth HDL.
