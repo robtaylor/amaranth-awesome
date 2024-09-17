@@ -31,7 +31,6 @@ Active Projects
  - [pytest-amaranth-sim](https://github.com/cr1901/pytest-amaranth-sim) Fixture to automate running Amaranth simulations.
  - [sae](https://github.com/kivikakk/sae) RV32I softcore
  - [smolarith](https://github.com/cr1901/smolarith) Small arithmetic soft-cores for smol FPGAs.
- - [amlib](https://github.com/amaranth-farm/amlib) Assorted library of utility cores for amaranth HDL.
 
 Inactive Projects
 =================
@@ -46,3 +45,4 @@ Projects that have seen no updates for >6 months. There have been many changes i
  - https://github.com/weshu/Amaranth_LFSR - a re-write of Alexforencich's verilog-lfsr, with Amaranth HDL.
    (Note: there is now a RFC to add and LFSR generator to Amaranth core)  https://github.com/amaranth-lang/rfcs/pull/72)
  - https://github.com/sporniket/amaranth-stuff Amaranth stuff by Sporniket is my collection of essential code written using the Amaranth hdl.
+ - https://github.com/amaranth-farm/amlib Assorted library of utility cores for amaranth HDL.
