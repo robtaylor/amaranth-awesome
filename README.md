@@ -15,6 +15,7 @@ Core Amaranth components
 Active Projects 
 ===============
 
+ - [Minerva](https://github.com/minerva-cpu/minerva) is a CPU core that implements the [RISC-V](https://riscv.org/specifications/) RV32IMZicsr instruction set built by the maintainer of Amaranth SoC.
  - [Coreblocks](https://kuznia-rdzeni.github.io/coreblocks) is an experimental, modular out-of-order [RISC-V](https://riscv.org/specifications/) core generator implemented in Amaranth.
  - [Glasgow](https://glasgow-embedded.org/) Glasgow Interface Explorer is a tool for exploring digital interfaces
  - [LUNA](https://github.com/greatscottgadgets/luna) is a toolkit for working with USB using FPGA technology, providing gateware and software to enable USB applications.
