@@ -36,7 +36,7 @@ Active Projects
  - [sae](https://github.com/kivikakk/sae): RV32I softcore
  - [sentinel](https://github.com/cr1901/sentinel): Sentinel is a small RISC-V CPU (RV32I_Zicsr) written in Amaranth. It implements the Machine Mode privileged spec, and is designed to fit into ~1000 4-input LUTs or less on an FPGA.
  - [smolarith](https://github.com/cr1901/smolarith): Small arithmetic soft-cores for smol FPGAs.
- - [ROOM](https://github.com/Jimx-/ROOM):: 10-stage out-of-order RV64IMFDC CPU
+ - [ROOM](https://github.com/Jimx-/ROOM): 10-stage out-of-order RV64IMFDC CPU
  - [amaranth-examples](https://github.com/cyber-murmel/amaranth-examples): Examples for the Amaranth hardware definition language, enabling the simulation and synthesis of digital circuits using Python.
  - [EMBR RV32](https://github.com/eigenform/ember): A computer architecture project focusing on the RV32 instruction set.
  - [hapenny](https://github.com/cbiffle/hapenny): A half-width RISC-V CPU implementation designed to evaluate the Amaranth HDL, operating internally on 16-bit chunks while executing the RV32I instruction set.
