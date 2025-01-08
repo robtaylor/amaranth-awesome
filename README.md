@@ -35,6 +35,7 @@ Active Projects
  - [sae](https://github.com/kivikakk/sae): RV32I softcore
  - [sentinel](https://github.com/cr1901/sentinel): Sentinel is a small RISC-V CPU (RV32I_Zicsr) written in Amaranth. It implements the Machine Mode privileged spec, and is designed to fit into ~1000 4-input LUTs or less on an FPGA.
  - [smolarith](https://github.com/cr1901/smolarith): Small arithmetic soft-cores for smol FPGAs.
+ - [maia-sdr](https://github.com/maia-sdr/maia-sdr) Maia SDR is an open-source FPGA-based SDR project focusing on the ADALM Pluto. It uses Amaranth-HDL for many DSP Blocks
  - [ROOM](https://github.com/Jimx-/ROOM): 10-stage out-of-order RV64IMFDC CPU
  - [amaranth-examples](https://github.com/cyber-murmel/amaranth-examples): Examples for the Amaranth hardware definition language, enabling the simulation and synthesis of digital circuits using Python.
  - [EMBR RV32](https://github.com/eigenform/ember): A computer architecture project focusing on the RV32 instruction set.
