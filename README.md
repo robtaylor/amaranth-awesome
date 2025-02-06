@@ -27,7 +27,7 @@ Active Projects
  - [amaranth-orchard](https://github.com/ChipFlow/amaranth-orchard): Existing open source cores combined with wrappers and glue to enable Amaranth support.
  - [amaranth-stubs](https://github.com/kuznia-rdzeni/amaranth-stubs): Type stubs for Amaranth
  - [hexastorm](https://github.com/hstarmans/hexastorm): Hexastorm is a full toolkit for working with polygon lasers scanners using FPGA technology; and provides hardware, gateware, and software to enable laser scanning applications.
- - [ili9341spi](https://github.com/kivikakk/ili9341spi): Driver for ILI9341 LCD display. Proving ground for [niar](https://github.com/kivikakk/niar).
+ - [ili9341spi](https://github.com/kivikakk/ili9341spi): Driver for ILI9341 LCD display. Proving ground for [niar](https://github.com/charlottia/niar).
  - [learn-fpga-amaranth](https://github.com/bl0x/learn-fpga-amaranth): This repository contains code to follow the excellent learn-fpga tutorial by Bruno Levy from blinker to RISC-V using Amaranth HDL
  - [mtkCPU](https://github.com/bieganski/mtkcpu): mtkCPU is a simple, clear, hackable and very inefficient implementation of RiscV ISA in Amaranth HDL.
  - [niar](https://github.com/kivikakk/niar): A small framework for building projects with Amaranth. Provides support for using CXXRTL, optionally with Zig and zxxrtl.
