@@ -68,3 +68,4 @@ Projects that have seen no updates for >6 months. There have been many changes i
  - https://github.com/weshu/Amaranth_LFSR - a re-write of Alexforencich's verilog-lfsr, with Amaranth HDL.
    (Note: there is now a RFC to add and LFSR generator to Amaranth core)  https://github.com/amaranth-lang/rfcs/pull/72)
  - https://github.com/sporniket/amaranth-stuff Amaranth stuff by Sporniket is my collection of essential code written using the Amaranth hdl.
+ - https://github.com/satellogic/nmigen-zynq Platform and primitive wrappers for AMD Zynq and Zynq UltraScale
