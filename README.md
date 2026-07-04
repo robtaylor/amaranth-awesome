@@ -45,7 +45,6 @@ Active Projects
  - [Niar](https://github.com/charlottia/niar): A small framework for building projects with Amaranth and supporting CXXRTL, Zig, and zxxrtl.
  - [patina](https://github.com/zignig/patina): A minimal Rust framework for RISC-V FPGA control plane development.
  - [pytest-amaranth-sim](https://github.com/cr1901/pytest-amaranth-sim): A pytest plugin to automate running Amaranth simulations with easy setup and VCD generation.
- - [maia-sdr](https://github.com/maia-sdr/maia-sdr) Maia SDR is an open-source FPGA-based SDR project focusing on the ADALM Pluto. It uses Amaranth-HDL for many DSP Blocks.
  - [Cynthion](https://github.com/antoinevg/cynthion): An all-in-one tool for building, testing, and experimenting with USB devices using a customizable FPGA-based architecture.
 
 Companies using Amaranth
